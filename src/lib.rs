@@ -3,6 +3,7 @@
 extern crate rustc;
 extern crate rustc_plugin;
 extern crate syntax;
+extern crate rustc_data_structures;
 
 use rustc_plugin::Registry;
 use syntax::ast::Ident;
